@@ -1,3 +1,3 @@
-# Python
+ # Python
 All Practice problems of Python Programming Language friom Basic to Advance  
-Author - Maavia Rizwan
+Author - Maavia Rizwan (MMR)
